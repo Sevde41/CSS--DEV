@@ -1,0 +1,38 @@
+body {
+    font-size: 30px;
+}
+
+body h1 {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+.menu {
+    text-align: center;
+}
+.menu ul {
+    text-align: center;
+}
+
+.menu ul a {
+    text-decoration: none;
+}
+ 
+.menu ul li {
+    display: inline;
+    margin-left: 15px;
+}
+
+.liste ul li {
+    text-align: center;
+    list-style-type: none;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
